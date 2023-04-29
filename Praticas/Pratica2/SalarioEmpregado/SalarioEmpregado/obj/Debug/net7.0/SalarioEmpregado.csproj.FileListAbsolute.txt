@@ -1,0 +1,15 @@
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\bin\Debug\net7.0\SalarioEmpregado.exe
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\bin\Debug\net7.0\SalarioEmpregado.deps.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\bin\Debug\net7.0\SalarioEmpregado.runtimeconfig.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\bin\Debug\net7.0\SalarioEmpregado.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\bin\Debug\net7.0\SalarioEmpregado.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.csproj.AssemblyReference.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.AssemblyInfoInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.AssemblyInfo.cs
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\refint\SalarioEmpregado.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\SalarioEmpregado.genruntimeconfig.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica2\SalarioEmpregado\SalarioEmpregado\obj\Debug\net7.0\ref\SalarioEmpregado.dll
