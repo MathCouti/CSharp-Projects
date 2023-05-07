@@ -1,0 +1,15 @@
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.csproj.AssemblyReference.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.AssemblyInfoInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.AssemblyInfo.cs
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.csproj.CoreCompileInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\bin\Debug\net7.0\Pratica5.exe
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\bin\Debug\net7.0\Pratica5.deps.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\bin\Debug\net7.0\Pratica5.runtimeconfig.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\bin\Debug\net7.0\Pratica5.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\bin\Debug\net7.0\Pratica5.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\refint\Pratica5.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\Pratica5.genruntimeconfig.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica5\obj\Debug\net7.0\ref\Pratica5.dll
