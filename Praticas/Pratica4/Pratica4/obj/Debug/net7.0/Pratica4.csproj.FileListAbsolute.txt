@@ -1,0 +1,15 @@
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\bin\Debug\net7.0\Pratica4.exe
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\bin\Debug\net7.0\Pratica4.deps.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\bin\Debug\net7.0\Pratica4.runtimeconfig.json
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\bin\Debug\net7.0\Pratica4.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\bin\Debug\net7.0\Pratica4.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.csproj.AssemblyReference.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.AssemblyInfoInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.AssemblyInfo.cs
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.csproj.CoreCompileInputs.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\refint\Pratica4.dll
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.pdb
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\Pratica4.genruntimeconfig.cache
+C:\Users\math_\Desktop\Programação\C#\Praticas\Pratica4\Pratica4\obj\Debug\net7.0\ref\Pratica4.dll

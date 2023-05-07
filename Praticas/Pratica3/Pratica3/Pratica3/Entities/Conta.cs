@@ -21,6 +21,10 @@ namespace Pratica3.Entities
             Numero = numero;
             Titular = titular;
             Saldo = saldo;
-        }   
+        }
+        public virtual void Sacar(double valor)
+        {
+            Saldo -= valor;
+        }
     }
 }

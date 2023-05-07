@@ -21,5 +21,11 @@ namespace Pratica3.Entities
         { 
             TaxaJuros = juros;
         }
+
+        public override void Sacar(double valor)
+        {
+            base.Sacar(valor);
+            Saldo -= 5;
+        }
     }
 }
